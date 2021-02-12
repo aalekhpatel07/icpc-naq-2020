@@ -1,6 +1,8 @@
 # ICPC NAQ 2020
 
-Contest Performance: **Rank 114**
+### Contest Performance: **Rank 114**
+
+### Team: [localMaxima](https://naq20.kattis.com/teams/304682)
 
 ## Problems Solved
 
